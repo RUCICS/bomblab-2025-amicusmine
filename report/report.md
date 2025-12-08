@@ -1,17 +1,17 @@
 # bomblab 报告
 
-姓名：张三
+姓名：刘镇赫
 
-学号：2000000000
+学号：2024202850
 
 | 总分 | phase_1 | phase_2 | phase_3 | phase_4 | phase_5 | phase_6 | secret_phase |
 | --------- | ------------- | ------------- | ------------- | ----------------- |-----------|-----------|-----------|
-| 3        | 1            | 1            | 1            | 0 |0  |0  |0  |
+| 7        | 1            | 3            | 2            | 1 |0  |1  |0  |
 
 
 scoreboard 截图：
 
-![image](./imgs/image.png)
+![image](./images/scoreboard.png)
 
 <!-- TODO: 用一个scoreboard的截图，本地图片，放到 imgs 文件夹下，不要用这个 github，pandoc 解析可能有问题 -->
 
